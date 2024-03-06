@@ -43,6 +43,8 @@ Add the following CSS to your stylesheet:
 ```
 * {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
   }
 
   .navbar {
